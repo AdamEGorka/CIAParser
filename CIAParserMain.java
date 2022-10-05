@@ -52,7 +52,6 @@ public class CIAParserMain {
         }
 
         //8.
-        //My own question!
         //Provide a list of all countries containing "land" in their name e.g. "Greenland", sorted by inflation rate
         //For "land" - other examples : North, South, West, East, New, Island, The, ...
         System.out.println("Provide a list of all countries containing \"_\" in their name e.g. \"Greenland\", sorted by inflation rate");
