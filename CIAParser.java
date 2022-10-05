@@ -636,10 +636,6 @@ public class CIAParser {
     }
 
 
-    //Used in part 6/7/8
-
-
-
     private class Country implements Comparable<Country>{
         private String countryName;
         private Double val;
